@@ -6,7 +6,7 @@ The way we look at the growth of FH is through the growth of our people. Growing
 
 ## Our Values
 
-We aim to leave the values of FindHotel. When you speak to people at FindHotel or look at how we act, you will recognise the values in our actions. As Ben Horowitz nicely named his [book](https://www.amazon.com/What-You-Do-Is-Who-You-Are-audiobook/dp/B07XVPLHV9/ref=sr_1_1?dchild=1&keywords=what+you+do+is+who+you+are&qid=1618162075&sr=8-1) about business culture - "WHAT you do is WHO you are". Being part of Findhotel means doing as it is defined by our values.
+We aim to live the values of FindHotel. When you speak to people at FindHotel or look at how we act, you will recognise the values in our actions. As Ben Horowitz nicely named his [book](https://www.amazon.com/What-You-Do-Is-Who-You-Are-audiobook/dp/B07XVPLHV9/ref=sr_1_1?dchild=1&keywords=what+you+do+is+who+you+are&qid=1618162075&sr=8-1) about business culture - "WHAT you do is WHO you are". Being part of FindHotel means doing as it is defined by our values.
 
 ![fh_values](/images/fh_values.png)
 
@@ -43,7 +43,7 @@ For every specialisation and milestone there are a couple of examples of behavio
 
 ## Progression Levels
 
-The growth model is a great tool to support one's growth but it doesn't set the expectations in a concise way so that people from across the organisation can easily determine what to expect from you. To compliment the growth model we have outlined the epxectations for each level. With that defined, the growth model is the tool to help you grow and the progression levels are what we expect to see you doing at a certain level. Both are complimentory and comprise FindHotel's toolbox to help you grow.
+The growth model is a great tool to support one's growth but it doesn't set the expectations in a concise way so that people from across the organisation can easily determine what to expect from you. To compliment the growth model we have outlined the epxectations for each level. With that defined, the growth model is the tool to help you grow and the progression levels are what we expect to see you doing at a certain level. Both are complimentary and comprise FindHotel's toolbox to help you grow.
 
 Each progression level is defined with two elements.
 
@@ -51,16 +51,16 @@ Each progression level is defined with two elements.
 
 - **We expect you to** - this is what we expect you to do at a specific level. In other words those are your responsibilities and accountabilities. The same expectation in some cases could be a responsibility and in others an accountability. For instance, you are responsible for your tasks but you are accountable for the same task should you have delegated it. We expect everyone to meet between 70%-100% of the expectations and this percentage should increase when you transition between the sub-levels.
 
-Although, everyone can chose which specialisation to develop, we would like to help you being successful in the track that you have selected as your dream career path. Therefore, for most progression levels we will recommend specific growth specialisations that will help you be successful.
+Although everyone can chose which specialisation to develop, we would like to help you being successful in the track that you have selected as your dream career path. Therefore, for most progression levels we will recommend specific growth specialisations that will help you be successful.
 
 Note that the recommendations won’t provide you with sufficient milestone points to move between the levels. Hence, the final step between two levels will require you to self-reflect and decide which specialisations to further develop. Keep in mind what is expected in the current and next level.
 
-Please use this information as a guidance and a foundation for conversations with your  growth manager. We expect you to work on development plans to rapidly learn, grow and advance in your career. We officially evaluate one's growth and performacne bi-annually. Should you need any support and other resources to meet the growth objectives you have set to yourself, do not hesitate to ask your growth manager for support and advise.
+Please use this information as a guidance and a foundation for conversations with your  growth manager. We expect you to work on development plans to rapidly learn, grow and advance in your career. We officially evaluate one's growth and performance bi-annually. Should you need any support and other resources to meet the growth objectives you have set to yourself, do not hesitate to ask your growth manager for support and advice.
 
 Makers progression levels
 
-- [Engnieer I](levels/engineer.md)
-- [Engnieer II](levels/engineer_2.md)
+- [Engineer I](levels/engineer.md)
+- [Engineer II](levels/engineer_2.md)
 - [Senior Engineer](levels/senior_engineer.md)
 - [Staff Engineer](levels/staff_engineer.md)
 - [Principal Engineer](levels/principal_engineer.md)
