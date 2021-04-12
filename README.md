@@ -22,9 +22,24 @@ It is normal to look for a reference point to understand where you are in your g
 
 Each progression level consists of 3 sub-levels enabling everyone to make small and tangible steps towards the next level. Such a design makes the career ladder challenging to “climb“ but very fulfilling as even small learning steps matter.
 
-## Growth Model (details will be added shortly)
+## Growth Model
 
 To move between the different levels in the career ladder, you have to develop a set of skills or in other words you have to grow. Hence, it is important to understand how the growth model helps you follow your path and how you can manage your growth.
+
+There are four growth tracks each containing four specialisations that are designed to help you grow in the context of FindHotel and in accordance with your professional interests. Each specialisation has five levels of awesomeness one can achieve. Those are the milestones. They relate to what we expect, what we strive for and what we believe in.
+
+Note that the growth tracks allow everyone to develop skills in different areas despite the career track they are currently on. Either maker or manager, everyone is able to strengthen their skills and expertise in a technical, operational, organisational or leadership topics. This model enables the development of [an I-shaped or a T-shaped profile](https://www.forbes.com/sites/andyboynton/2011/10/18/are-you-an-i-or-a-t/?sh=2e2136936e88). It all depends on your choice and we are here to help you with your future growth. The only expectation and guidance is that when you advance in your career your profile will be gradually moving towards a T-shaped one.
+
+This is a unique feature of this growth model that we truly believe in. All people are different and smart. Talented people often would like to grow in many different and complimentary areas. So, let’s do that together!
+
+For every specialisation and milestone there are a couple of examples of behaviour and achievements. These are added to clarify the expectations for a particular specialisation milestone.
+
+## Growth tracks and specilaisations
+
+- [Development](model/development.md)
+- [Execution](model/execution.md)
+- [Supporting](model/supporting.md)
+- [Strengthening](model/strengthening.md)
 
 ## Progression Levels
 
@@ -57,6 +72,14 @@ Managers progression levels
 - [Engineering Manager](levels/engineering_manager.md)
 - [Head of Engineering](levels/head_of_engineering.md)
 - [VP of Engineering](levels/vp_of_engineering.md)
+
+## How do promotions work?
+
+Once a milestone is achieved and the requirements for a progression level are met, you can expect to be promoted to the next level on the ladder.
+
+It is important to remember that it is expected to consistently demonstrate the skills, expertise and behaviours required for each specialisation milestone. Hence, if a particular specialisation milestone has been degraded in the past six months period this is a clear signal that you are performing below the expectations in regards to that specific specialisation milestone.
+
+This is possible to happen due to various reasons and in the next six months period we expect you to step up your game to the specialisation milestone that you have had demonstrated in the past or to compensate with the development of another specialisation.
 
 ## Acknowledgement
 
