@@ -1,4 +1,4 @@
-# Engnieer
+# Engineer I
 
 You are just starting. You have some experience in software engineering but you have lots to learn before building complex systems from the ground up.
 
@@ -8,7 +8,7 @@ We expect our young engineers to learn as much as possible and develop solid eng
 
 At this stage the specialisations that can help you accelerate your growth and become an effective team member are listed below.
 
-| Development | Execution | Strenghtening |
+| Development | Execution | Strengthening |
 | --- | --- | --- |
 | Any specialisation<sup>[1](#specialisation)</sup> 2+ | Delivery 1+ | Community 1+ |
 | Operations 1+ | Communication 1+ | |
@@ -35,4 +35,4 @@ At this stage the specialisations that can help you accelerate your growth and b
 - Understand the business value of the stories and the impact of your contribution on the business
 - Proactively communicate status on your work or any issues
 
-Continue reading: [Engnieer II](engineer_2.md)
+Continue reading: [Engineer II](engineer_2.md)

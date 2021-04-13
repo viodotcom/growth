@@ -39,4 +39,4 @@ Every Engineer II has what it takes to be an Engineer and meets the expectations
 - Contribute to the definitions of stories
 - Understand FindHotel’s business metrics and how your work may affect them
 
-Continue reading: [Senior Engnieer](senior_engineer.md)
+Continue reading: [Senior Engineer](senior_engineer.md)

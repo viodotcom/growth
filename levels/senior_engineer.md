@@ -41,4 +41,4 @@ Every Senior Engineer has what it takes to be an Engineer II and meets the expec
 - Demolish roadblocks and unblock yourself or your team
 - Actively participate in the interview process
 
-Continue reading: [Staff Engnieer](staff_engineer.md) or [Engineering Lead](engineering_lead.md)
+Continue reading: [Staff Engineer](staff_engineer.md) or [Engineering Lead](engineering_lead.md)

@@ -1,6 +1,6 @@
 # Engineering Manager
 
-You are an experienced engnieering lead with a solid engineering background. You have shown persistent growth in the managerial track and have executed larger projects/initiatives successfully. You have strong track record of managing team(s) directly reporting to you. Your people see you as an enabler for their success and professional growth.
+You are an experienced engineering lead with a solid engineering background. You have shown persistent growth in the managerial track and have executed larger projects/initiatives successfully. You have strong track record of managing team(s) directly reporting to you. Your people see you as an enabler for their success and professional growth.
 
 Below is our recommendation of specialisations that will help you be an effective manager able to lead through other leaders. You can chose any combination that helps you grow and meet the expectations of your people, your manger and other stakeholders.
 
