@@ -4,7 +4,7 @@ You are an experienced technology executive with strong track record of building
 
 We do not recommend specific specialisations to senior managers and we expect you to self-reflect and identify the specialisations which will help you be effective in your role.
 
-Every VP of Engineering has what it takes to be a Head of Engineering  and meets the expectations for that level.
+Every VP of Engineering has what it takes to be a Head of Engineering and meets the expectations for that level.
 
 ### You should have
 

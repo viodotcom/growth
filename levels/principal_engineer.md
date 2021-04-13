@@ -1,12 +1,12 @@
 # Principal Engineer
 
-You are an established leader in the technology community within FindHotel or outside. You are recognised for your deep knowledge in your core development specialisation. You have proven yourself as a go-to-person for helping others with finding the most efficient solution for the problems they are working on.
+You are an established leader in the technology community within FindHotel or outside. You are recognised for your deep knowledge in your core development specialisation. You have proven yourself as a go-to person for helping others with finding the most efficient solution for the problems they are working on.
 
 You have recommended yourself as a mentor and have consistently helped other engineers step up and grow successfully. You have a strong track record in owning and delivering complex projects across tribes. You are comfortable leading chapter wide initiatives that improve FindHotel’s technology and environment.
 
 You are a recognised expert in FindHotel and you have a lot of freedom on the ways you help the organisation. You are a trusted advisor to senior leadership on engineering strategy.
 
-There are no recommended specialisations for this level as at this point of your career development you have to chose which skills you have to develop to be successful. Your professional growth manager (line manager) can be a great sparring partner for you when making your decision and development plan.
+There are no recommended specialisations for this level as at this point of your career development you have to choose which skills you have to develop to be successful. Your professional growth manager (line manager) can be a great sparring partner for you when making your decision and development plan.
 
 Every Principal Engineer has what it takes to be a Staff Engineer and meets the expectations for that level.
 
@@ -42,4 +42,4 @@ Every Principal Engineer has what it takes to be a Staff Engineer and meets the 
 - Represent FindHotel at external meet-ups and events (at least 2 times a year)
 - Create publicly-viewable internal and/or external artefacts intended for the benefit of others. Examples: participate on sites, write blog posts, contribute to open source, speak at meet-ups or conferences.
 
-Continue reading: [Senior Principal Engnieer](s_principal_engineer.md)
+Continue reading: [Senior Principal Engineer](s_principal_engineer.md)

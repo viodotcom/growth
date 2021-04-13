@@ -44,4 +44,4 @@ Every Staff Engineer has what it takes to be a Senior Engineer and meets the exp
 - Design and implement systems and frameworks that can succeed long term
 - Be active in the technical community and positively contribute to FindHotel’s reputation
 
-Continue reading: [Principal Engnieer](principal_engineer.md)
+Continue reading: [Principal Engineer](principal_engineer.md)
