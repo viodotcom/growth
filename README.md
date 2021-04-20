@@ -34,7 +34,7 @@ This is a unique feature of this growth model that we truly believe in. All peop
 
 For every specialisation and milestone there are a couple of examples of behaviour and achievements. These are added to clarify the expectations for a particular specialisation milestone.
 
-## Growth tracks and specilaisations
+## Growth tracks and specialisations
 
 - [Development](model/development.md)
 - [Execution](model/execution.md)
