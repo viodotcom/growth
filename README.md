@@ -43,7 +43,7 @@ For every specialisation and milestone there are a couple of examples of behavio
 
 ## Progression Levels
 
-The growth model is a great tool to support one's growth but it doesn't set the expectations in a concise way so that people from across the organisation can easily determine what to expect from you. To compliment the growth model we have outlined the epxectations for each level. With that defined, the growth model is the tool to help you grow and the progression levels are what we expect to see you doing at a certain level. Both are complimentary and comprise FindHotel's toolbox to help you grow.
+The growth model is a great tool to support one's growth but it doesn't set the expectations in a concise way so that people from across the organisation can easily determine what to expect from you. To compliment the growth model we have outlined the expectations for each level. With that defined, the growth model is the tool to help you grow and the progression levels are what we expect to see you doing at a certain level. Both are complimentary and comprise FindHotel's toolbox to help you grow.
 
 Each progression level is defined with two elements.
 
