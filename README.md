@@ -51,7 +51,7 @@ Each progression level is defined with two elements.
 
 - **We expect you to** - this is what we expect you to do at a specific level. In other words those are your responsibilities and accountabilities. The same expectation in some cases could be a responsibility and in others an accountability. For instance, you are responsible for your tasks but you are accountable for the same task should you have delegated it. We expect everyone to meet between 70%-100% of the expectations and this percentage should increase when you transition between the sub-levels.
 
-Although everyone can chose which specialisation to develop, we would like to help you being successful in the track that you have selected as your dream career path. Therefore, for most progression levels we will recommend specific growth specialisations that will help you be successful.
+Although everyone can choose which specialisation to develop, we would like to help you being successful in the track that you have selected as your dream career path. Therefore, for most progression levels we will recommend specific growth specialisations that will help you be successful.
 
 Note that the recommendations won’t provide you with sufficient milestone points to move between the levels. Hence, the final step between two levels will require you to self-reflect and decide which specialisations to further develop. Keep in mind what is expected in the current and next level.
 
