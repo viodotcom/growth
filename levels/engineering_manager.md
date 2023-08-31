@@ -15,9 +15,9 @@ Every Engineering Manager has what it takes to be an Engineering Lead and meets 
 
 ### You should have
 
-- Successful track record as an Engineer Lead in FindHotel or Engineering Manager in another company
+- Successful track record as an Engineer Lead in Vio.com or Engineering Manager in another company
 - Demonstrated strong organisational and facilitation skills on complex (cross-)squad projects
-- Demonstrated the ability to create a high-performance, engaged, innovative and optimal work environment in line with FindHotel’s culture (core values and virtues)
+- Demonstrated the ability to create a high-performance, engaged, innovative and optimal work environment in line with Vio.com’s culture (core values and virtues)
 - Delegated tasks and ownership to the right people while being accountable for the outcome
 - Demonstrated taking full responsibility for helping other makers deliver
 - Demonstrated the ability to organise the timely resolution of escalated problems
@@ -30,7 +30,7 @@ Every Engineering Manager has what it takes to be an Engineering Lead and meets 
 - Be accountable for the growth of 7-12 engineer and help them formulate growth plans and objectives
 - Challenge and help your engineering leads grow as successful leaders of their squads
 - Lead squads directly and through engineering leads. Guide them to balance cross-squad priorities
-- Lead multiple squads, communicate FindHotel’s objectives, implement work processes, plan workload and resources against deadlines
+- Lead multiple squads, communicate Vio.com’s objectives, implement work processes, plan workload and resources against deadlines
 - Seek an understanding of what other teams do, share knowledge. Encourage others to do the same
 - Guide engineering leads to stay focused on the most important tasks at hand, while mentoring and managing squads effectively towards results
 - Navigate and lead squads through ambiguous situations, enabling them to unblock themselves and make progress

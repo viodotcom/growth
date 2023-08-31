@@ -17,13 +17,13 @@ Every Engineer II has what it takes to be an Engineer and meets the expectations
 
 ### You should have
 
-- Successful track record as an Engineer in FindHotel or in another company
+- Successful track record as an Engineer in Vio.com or in another company
 - Well-developed (milestone 3+) of your core development specialisation
 - Good communication skills
 - Demonstrated very good collaboration skills in your squad
 - Demonstrated the ability to pro-actively seek feedback and improve based on it
 - Strong willingness and ability to learn diverse technologies, techniques and topics out of curiosity
-- Demonstrated good understanding of FindHotel’s business model and revenue streams
+- Demonstrated good understanding of Vio.com’s business model and revenue streams
 
 ### We expect you to
 
@@ -37,6 +37,6 @@ Every Engineer II has what it takes to be an Engineer and meets the expectations
 - Understand an unfamiliar source code, dive into it and make changes
 - Perform code reviews and provide constructive feedback with respect
 - Contribute to the definitions of stories
-- Understand FindHotel’s business metrics and how your work may affect them
+- Understand Vio.com’s business metrics and how your work may affect them
 
 Continue reading: [Senior Engineer](senior_engineer.md)

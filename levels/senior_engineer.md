@@ -17,7 +17,7 @@ Every Senior Engineer has what it takes to be an Engineer II and meets the expec
 
 ### You should have
 
-- Successful track record as an Engineer II in FindHotel or in another company
+- Successful track record as an Engineer II in Vio.com or in another company
 - A good understanding of a second development specialisations
 - Delivered high-quality work (recognised by peers) that has impact on the product and customer
 - Been successful in performing engineering work on projects over one or two areas of a product/service

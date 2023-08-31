@@ -17,7 +17,7 @@ Every Staff Engineer has what it takes to be a Senior Engineer and meets the exp
 
 ### You should have
 
-- Successful track record as a Senior Engineer in FindHotel or in another company
+- Successful track record as a Senior Engineer in Vio.com or in another company
 - A good understanding of other development specialisations
 - Demonstrated the ability to collaborate well across squads
 - Designed and implemented features, modules or services from scratch
@@ -42,6 +42,6 @@ Every Staff Engineer has what it takes to be a Senior Engineer and meets the exp
 - Deconstruct larger projects into smaller doable tasks and help others do the same
 - Be flexible and put customer needs first
 - Design and implement systems and frameworks that can succeed long term
-- Be active in the technical community and positively contribute to FindHotel’s reputation
+- Be active in the technical community and positively contribute to Vio.com’s reputation
 
 Continue reading: [Principal Engineer](principal_engineer.md)

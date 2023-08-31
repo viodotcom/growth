@@ -1,6 +1,6 @@
 # Development
 
-The development growth track emphasises the development of skills and expertise in the core engineering areas at FH. It focuses on the ability of each engineer to design and develop high-quality products with the customer and business needs in mind.
+The development growth track emphasises the development of skills and expertise in the core engineering areas at Vio.com. It focuses on the ability of each engineer to design and develop high-quality products with the customer and business needs in mind.
 
 There are four specialisations within this growth track - ***data, client-side dev, operations and server-side dev***.
 
@@ -147,7 +147,7 @@ There are four specialisations within this growth track - ***data, client-side d
         </tr>
         <tr>
             <td></td>
-            <td colspan=4>Researches, proposes and selects frameworks to be used across FH.</td>
+            <td colspan=4>Researches, proposes and selects frameworks to be used across Vio.com.</td>
         </tr>
         <tr>
             <td></td>
@@ -159,7 +159,7 @@ There are four specialisations within this growth track - ***data, client-side d
         </tr>
         <tr>
             <td></td>
-            <td colspan=4>Develops and implements technology strategies across FH.</td>
+            <td colspan=4>Develops and implements technology strategies across Vio.com.</td>
         </tr>
         <tr>
             <td></td>

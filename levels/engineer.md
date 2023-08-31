@@ -22,8 +22,8 @@ At this stage the specialisations that can help you accelerate your growth and b
 - Excellent learnability skills - learn and apply
 - Strong analytical skills
 - Well-developed (milestone 2 or 3) at least on of the development specialisations
-- Understanding of FindHotel’s business and revenue models
-- A strong connection with FindHotel’s core values, virtues and mission
+- Understanding of Vio.com’s business and revenue models
+- A strong connection with Vio.com’s core values, virtues and mission
 
 ### We expect you to
 

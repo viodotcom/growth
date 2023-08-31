@@ -14,13 +14,13 @@ Every Engineering Lead has what it takes to be a Senior Engineer and meets the e
 
 ### You should have
 
-- Successful track record as a Senior Engineer in FindHotel or in another company
+- Successful track record as a Senior Engineer in Vio.com or in another company
 - Demonstrated strong affinity for facilitating and organising work for a squad
 - Demonstrated the ability to encourage others to feel responsible and take ownership of their work
 - Coordinated the response to and resolution of escalated problems and production issues
 - Efficient and concise communication in a team environment
 - Demonstrated excellent communication skills with technical and non-technical stakeholders
-- Have professional working knowledge of the operational processes of FindHotel, the business and revenue model and the business metrics, and how the outcome of your squad affects them
+- Have professional working knowledge of the operational processes of Vio.com, the business and revenue model and the business metrics, and how the outcome of your squad affects them
 
 ### We expect you to
 
