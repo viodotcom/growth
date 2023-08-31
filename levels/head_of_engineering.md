@@ -8,7 +8,7 @@ Every Head of Engineering has what it takes to be an Engineering Manager and mee
 
 ### You should have
 
-- Successful track record as an Engineer Manager in FindHotel or SEM/HoE in another company
+- Successful track record as an Engineer Manager in Vio.com or SEM/HoE in another company
 - Experience collaborating with leaders and stakeholders across the company to build a high level roadmap & vision for various initiatives
 - A deep understanding of how cross-functional product squads work at a software product company and experience managing such squads
 - Experience in leading cross-functional squads on projects with company wide impact
@@ -26,10 +26,10 @@ Every Head of Engineering has what it takes to be an Engineering Manager and mee
 - Execute projects as business owner delegating parts of cross-functional projects to others
 - Ensure high-quality of product releases and that quality best practices are adopted and adhered to
 - Continuously explore the environment for inefficiency and start improvement projects with clear outcomes
-- Challenge the squads to set aggressive OKRs that ensure we are moving towards FindHotel’s objectives and help the teams grow
+- Challenge the squads to set aggressive OKRs that ensure we are moving towards Vio.com’s objectives and help the teams grow
 - Challenge everyone to demonstrate a great sense of urgency
-- Plan and execute annual (cross-tribe) initiatives that deliver directly to FindHotel’s strategic objectives
-- Represent FindHotel on various events and promote the company in a positive way
+- Plan and execute annual (cross-tribe) initiatives that deliver directly to Vio.com’s strategic objectives
+- Represent Vio.com on various events and promote the company in a positive way
 - Define hiring plans, actively lead recruitment initiatives and prepare plans for promotions and compensation improvements
 
 Continue reading: [VP of Engineering](vp_of_engineering.md)

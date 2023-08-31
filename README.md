@@ -92,6 +92,5 @@ The career ladder is inspired by, hmmm, tons of tech companies out there that ha
 The progression levels work is inspired by many ideas that we have tried and that worked. Some of the most inspiring work is:
 
 - The stuff Etsy has done [link](https://codeascraft.com/2019/10/02/engineering-career-development-at-etsy/)
-- Meetup’s ladder [link](https://github.com/meetup/engineering-roles/)
-- The work of Joel Spolsky [link](https://www.joelonsoftware.com/2009/02/13/fog-creek-professional-ladder/) [link](https://stackoverflow.com/company/compensation/skills/web-developer?e=1&l=1)
+- The work of Joel Spolsky [link](https://www.joelonsoftware.com/2009/02/13/fog-creek-professional-ladder/)
 - The implementation of the ladder and profiles at eVision. (no public link to share tho)
